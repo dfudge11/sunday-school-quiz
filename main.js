@@ -1,1 +1,0 @@
-console.log('Quiz app script loaded.');
